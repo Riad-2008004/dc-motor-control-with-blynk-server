@@ -32,8 +32,8 @@ unsigned long millisBefore;
 volatile int gaps;
 
 char auth[] = "KPKXYZPx1owWFyqbypjUKUVXM_AJvk1L"; // Enter your Blynk Auth token
-char ssid[] = "Tanvir";                           // Enter your WIFI SSID
-char pass[] = "01797671990";                      // Enter your WIFI Password
+char ssid[] = "AndroidAP";                        // Enter your WIFI SSID
+char pass[] = "88880000";                         // Enter your WIFI Password
 
 BlynkTimer timer;
 
